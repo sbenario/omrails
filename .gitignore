@@ -19,3 +19,6 @@ doc/
 .project
 .DS_store
 .idea
+
+#ignore all images that come in from paperclip
+/public/system
